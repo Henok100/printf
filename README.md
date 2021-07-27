@@ -61,7 +61,7 @@ to the output stream; and conversion specifications, each of which results in
 fetching zero or more subsequent arguments. Conversion specification is
 introduced by the character `%` and ends with a conversion specifier. In
 between the `%` character and conversion specifier, there may be (in order)
-zero or more _flags_, an optional minimum _field width_, an optional
+izero or more _flags_, an optional minimum _field width_, an optional
 _precision_ and an optional _length_ modifier. The arguments must correspond
 with the conversion specifier, and are used in the order given.
 
@@ -355,7 +355,7 @@ Example `main.c`:
 ```
 int main(void)
 {
-    _printf("r\n", "Hello, Holberton");
+   _printf("r\n", "Hello, Holberton");
 }
 ```
 Output:
@@ -474,10 +474,10 @@ Output:
 -9223372036854775808           -> LONG_MIN
 ```
 
-## Authors :black_nib:
+## Authors :
 
 * Henok Gashaw <[Henok100](https://github.com/Henok100)>
-* Michael Klein <[mKleinCreative](https://github.com/mKleinCreative)>
+*Natnael Afework <[Nathnaiel-af](https://github.com/Nathaniel-af)>
 
 
 ## Acknowledgements :pray:
@@ -486,11 +486,4 @@ The `_printf` function emulates functionality of the C standard library
 function `printf`. This README borrows from the Linux man page
 [printf(3)](https://linux.die.net/man/3/printf).
 
-This program was written as part of the curriculum for Holberton School.
-Holberton School is a campus-based full-stack software engineering program
-that prepares students for careers in the tech industry using project-based
-peer learning. For more information, visit [this link](https://www.holbertonschool.com/).
-
-<p align="center">
-  <img src="http://www.holbertonschool.com/holberton-logo.png" alt="Holberton School logo">
-</p>
+This program was written as part of the curriculum for ALX software engineering program
