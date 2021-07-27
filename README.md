@@ -208,9 +208,8 @@ the argument `6` is considered the precision for the conversion of the decimal
 #### Length Modifiers
 
 After flags, width, and precision and before a conversion specifier, one of the
-following length modifiers may be provided:
-
-#### h
+following length modifiers may
+### .h
 Specifies that an integer conversion corresponds to a `short int` or
 `unsigned short int` argument.
 
