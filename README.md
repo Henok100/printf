@@ -477,7 +477,7 @@ Output:
 ## Authors :
 
 * Henok Gashaw <[Henok100](https://github.com/Henok100)>
-*Natnael Afework <[Nathnaiel-af](https://github.com/Nathaniel-af)>
+* Natnael Afework <[Nathnaiel-af](https://github.com/Nathaniel-af)>
 
 
 ## Acknowledgements :pray:
