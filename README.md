@@ -73,6 +73,7 @@ The character `%` may be followed by zero or more of the following flags:
   * For `x` converions, `0x` is prepended for non-zero numbers.
   * For `X` conversions, `0X` is prepeneded for non-zero numbers.
 
+
 Example `main.c`:
 ```
 int main(void)
