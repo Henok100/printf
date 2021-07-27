@@ -7,7 +7,6 @@ recreation of the C standard library function, `printf`.
 
 ## Dependencies :couples
 
-
 The `_printf` function was coded on an Ubuntu 20. 04 LTS machine with `gcc` version 4.8.4.
 ## Usage :running:
 To use the `_printf` function, assuming the above dependencies have been installed,
