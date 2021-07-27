@@ -32,6 +32,7 @@ Compilation:
 $ gcc *.c -o tester
 ```
 
+
 Output:
 ```
 $ ./tester
