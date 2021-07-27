@@ -38,6 +38,8 @@ Output:
 $ ./tester
 Hello, Holberton!
 $
+
+
 ```
 ## Description :speech_balloon:
 
