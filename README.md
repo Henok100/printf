@@ -15,6 +15,7 @@ compile all `.c` files in the repository and include the header `holberton.h` wi
 any main function.
 Example `main.c`:
 ```
+
 #include "holberton.h"
 
 int main(void)
