@@ -13,7 +13,6 @@ The `_printf` function was coded on an Ubuntu 20.04 LTS machine with `gcc` versi
 To use the `_printf` function, assuming the above dependencies have been installed,
 compile all `.c` files in the repository and include the header `holberton.h` with
 any main function.
-
 Example `main.c`:
 ```
 #include "holberton.h"
