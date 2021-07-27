@@ -26,6 +26,7 @@ int main(void)
 ```
 
 Compilation:
+
 ```
 $ gcc *.c -o tester
 ```
