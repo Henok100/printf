@@ -36,7 +36,6 @@ $ ./tester
 Hello, Holberton!
 $
 ```
-
 ## Description :speech_balloon:
 
 The function `_printf` writes output to standard output. The function writes
